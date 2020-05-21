@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
  * @Author: shangjp
  * @Email: shangjp@163.com
  * @Date: 2020/5/20 10:57
- * @Description: redis分布式锁工具类类
+ * @Description: redis分布式锁工具类
  */
 public class RedisLockUtil {
 
